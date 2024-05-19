@@ -5,45 +5,59 @@ Teste unitário!
 Desafio 1
 
 1. *Cadastro bem-sucedido com todos os campos preenchidos corretamente*
+   
  Campos testados e funcionando corretamente
 
-2. *Tentativa de cadastro com o campo 'Nome' vazio*
+3. *Tentativa de cadastro com o campo 'Nome' vazio*
+   
  Campo 'nome' preenchido e funcionando corretamente!
 
-3. *Tentativa de cadastro com o campo 'CPF' vazio*
+5. *Tentativa de cadastro com o campo 'CPF' vazio*
+   
  Campo 'CPF' preenchido e funcionado corretamente!
 
-4. *Tentativa de cadastro com o campo 'Email' vazio*
+7. *Tentativa de cadastro com o campo 'Email' vazio*
+   
  Campo ‘Email’ preenchido e funcionado corretamente!
 
-5. *Tentativa de cadastro com o campo 'Senha' vazio*
+9. *Tentativa de cadastro com o campo 'Senha' vazio*
+    
  Campo ‘Senha’ preenchido e funcionado corretamente!
 
-6. *Tentativa de cadastro com o campo 'Confirmar Senha' vazio*
+11. *Tentativa de cadastro com o campo 'Confirmar Senha' vazio*
+    
  Campo ‘Confirmar Senha’ preenchido e funcionando corretamente!
 
-7. *Tentativa de cadastro com 'CPF' em formato inválido*
+13. *Tentativa de cadastro com 'CPF' em formato inválido*
+    
  Cadastro com ‘CPF’ formato valido!
 
-8. *Tentativa de cadastro com 'Email' em formato inválido*
+15. *Tentativa de cadastro com 'Email' em formato inválido*
+    
  Cadastro de ‘Email’ com em formato valido!
 
-9. *Tentativa de cadastro com 'Senha' e 'Confirmar Senha' diferentes*
+17. *Tentativa de cadastro com 'Senha' e 'Confirmar Senha' diferentes*
+    
  Cadastro com ‘Senha’ e ‘Confirmar Senha’ funcionando corretamente!
 
-10. *Tentativa de cadastro com 'Senha' abaixo do limite mínimo de caracteres*
+19. *Tentativa de cadastro com 'Senha' abaixo do limite mínimo de caracteres*
+    
  ‘Senha’ abaixo do limite mínimo detectado com sucesso!
 
-11. *Tentativa de cadastro com 'Senha' acima do limite máximo de caracteres*
+21. *Tentativa de cadastro com 'Senha' acima do limite máximo de caracteres*
+    
  ‘Senha’ acima do limite permitido detectado com sucesso!
 
-12. *Tentativa de cadastro com 'Nome' contendo caracteres especiais*
+23. *Tentativa de cadastro com 'Nome' contendo caracteres especiais*
+    
  ‘Nome’ contendo caracteres especiais detectado com sucesso!
 
-13. *Tentativa de cadastro com 'CPF' já cadastrado*
+25. *Tentativa de cadastro com 'CPF' já cadastrado*
+    
  ‘CPF’ já cadastrado detectado com sucesso!
 
-14. *Tentativa de cadastro com 'Email' já cadastrado*
+27. *Tentativa de cadastro com 'Email' já cadastrado*
+    
  ‘Email já cadastrado detectado com sucesso!
 
 
