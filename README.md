@@ -1,6 +1,5 @@
 # Desafio-Pratico-Formacao-ModalGR
 
-Teste unitário!
 
 Desafio 1
 
